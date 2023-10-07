@@ -1,0 +1,7 @@
+Rest Assured :-
+
+*Is a java lib(Api) for testing RESTful Web Services.
+*It can be used to test XML & JSON based Web Services.
+*It supports POST,GET,PUT,DELETE,OPTIONS,PATCH,HEAD so on..
+*It can be integrated with testing frameworks like Junit,Testng etc..
+*Rest Assured is implemented in Groovy..
